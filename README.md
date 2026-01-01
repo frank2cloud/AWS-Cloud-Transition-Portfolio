@@ -1,1 +1,1 @@
-![IAM](screenshots/amazon-iam.png)
+amazon-iam.png
