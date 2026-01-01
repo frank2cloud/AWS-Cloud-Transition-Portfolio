@@ -1,1 +1,1 @@
-amazon-iam.png
+![Amazon IAM](screenshots/amazon-iam.png)
