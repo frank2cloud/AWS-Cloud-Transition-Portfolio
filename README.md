@@ -1,1 +1,1 @@
-![Amazon IAM](screenshots/amazon-iam.png)
+![amazon iam](screenshots/amazon-iam.png)
